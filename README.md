@@ -10,7 +10,7 @@ A color-sorting automation project built with Factory I/O and Siemens TIA Portal
 - Factory I/O simulation
 
 ## Demo
-LinkedIn video: PASTE_YOUR_LINK_HERE
+LinkedIn video:http://www.linkedin.com/in/ibrahim-babiker-108837246
 
 ## Software
 - Factory I/O
