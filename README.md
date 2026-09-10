@@ -23,9 +23,9 @@ LinkedIn video:http://www.linkedin.com/in/ibrahim-babiker-108837246
 Factory I/O
     │
     │ Driver communication
-    │ (MHJ / Siemens S7-PLCSIM - 1211C DC/DC/DC)
+    │ (Siemens S7-PLCSIM)
     ▼
-PLC Runtime / S7-1200 CPU
+PLC / S7-1200 1211C DC/DC/DC CPU
     │
     │ PROFINET (PN/IE)
     ▼
